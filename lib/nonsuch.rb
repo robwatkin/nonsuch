@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Nonsuch
 
   def business_days_between(start_date:, end_date:)
